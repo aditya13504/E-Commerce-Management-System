@@ -1,0 +1,78 @@
+com.yourdomain.ecommerce.app-jetified-savedstate-ktx-1.2.1-0 C:\Users\Aditya\.gradle\caches\8.10\transforms\0a2eb127976b75b55a7a0c3aa675403f\transformed\jetified-savedstate-ktx-1.2.1\res
+com.yourdomain.ecommerce.app-jetified-ads-adservices-java-1.0.0-beta05-1 C:\Users\Aditya\.gradle\caches\8.10\transforms\10a45e54251fe550606c39cb41408684\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.yourdomain.ecommerce.app-jetified-play-services-measurement-api-21.5.1-2 C:\Users\Aditya\.gradle\caches\8.10\transforms\13279c5cd9fbc09c7ca827fe211c25a2\transformed\jetified-play-services-measurement-api-21.5.1\res
+com.yourdomain.ecommerce.app-browser-1.6.0-3 C:\Users\Aditya\.gradle\caches\8.10\transforms\15cc8fdff98b25d792f5135501d62d69\transformed\browser-1.6.0\res
+com.yourdomain.ecommerce.app-jetified-emoji2-views-helper-1.4.0-4 C:\Users\Aditya\.gradle\caches\8.10\transforms\1954b67aba2815e3bf56bd6d940cc47b\transformed\jetified-emoji2-views-helper-1.4.0\res
+com.yourdomain.ecommerce.app-material-1.11.0-5 C:\Users\Aditya\.gradle\caches\8.10\transforms\1a565527529b63e03552a6adea1b9047\transformed\material-1.11.0\res
+com.yourdomain.ecommerce.app-jetified-material-icons-extended-release-6 C:\Users\Aditya\.gradle\caches\8.10\transforms\1c39145c8a1fb860c9a9cac91976fc8c\transformed\jetified-material-icons-extended-release\res
+com.yourdomain.ecommerce.app-jetified-foundation-release-7 C:\Users\Aditya\.gradle\caches\8.10\transforms\1c5ad979c91405de7ad3bbb0436937b1\transformed\jetified-foundation-release\res
+com.yourdomain.ecommerce.app-jetified-ui-text-release-8 C:\Users\Aditya\.gradle\caches\8.10\transforms\2142116280a487b96334d1e87304c4fb\transformed\jetified-ui-text-release\res
+com.yourdomain.ecommerce.app-jetified-activity-compose-1.8.2-9 C:\Users\Aditya\.gradle\caches\8.10\transforms\25bc3dfb827a0fdeb44df9b9c1ceb0ca\transformed\jetified-activity-compose-1.8.2\res
+com.yourdomain.ecommerce.app-lifecycle-runtime-2.7.0-10 C:\Users\Aditya\.gradle\caches\8.10\transforms\2e525605aaace0614b13a190c409c8e9\transformed\lifecycle-runtime-2.7.0\res
+com.yourdomain.ecommerce.app-navigation-runtime-2.7.7-11 C:\Users\Aditya\.gradle\caches\8.10\transforms\2e8a70337b848adaf825763861a7fd99\transformed\navigation-runtime-2.7.7\res
+com.yourdomain.ecommerce.app-jetified-lifecycle-process-2.7.0-12 C:\Users\Aditya\.gradle\caches\8.10\transforms\3646171ea4a47f3f0c7bcaeef097a194\transformed\jetified-lifecycle-process-2.7.0\res
+com.yourdomain.ecommerce.app-drawerlayout-1.1.1-13 C:\Users\Aditya\.gradle\caches\8.10\transforms\366f83b301ae236e011283841b8cfe4c\transformed\drawerlayout-1.1.1\res
+com.yourdomain.ecommerce.app-jetified-core-ktx-1.12.0-14 C:\Users\Aditya\.gradle\caches\8.10\transforms\389c65d31c8259df973224fde8230860\transformed\jetified-core-ktx-1.12.0\res
+com.yourdomain.ecommerce.app-jetified-navigation-compose-2.7.7-15 C:\Users\Aditya\.gradle\caches\8.10\transforms\3c72cff9ea5a7fd612a4ab5a823336f7\transformed\jetified-navigation-compose-2.7.7\res
+com.yourdomain.ecommerce.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-16 C:\Users\Aditya\.gradle\caches\8.10\transforms\464d46257eb8c9e4b9f6119ce7e109ee\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.yourdomain.ecommerce.app-jetified-savedstate-1.2.1-17 C:\Users\Aditya\.gradle\caches\8.10\transforms\46f4c46b94418a7c8cc1f77bdfc9a0ec\transformed\jetified-savedstate-1.2.1\res
+com.yourdomain.ecommerce.app-cardview-1.0.0-18 C:\Users\Aditya\.gradle\caches\8.10\transforms\486939fd63005c4c31a27699a0ca05a7\transformed\cardview-1.0.0\res
+com.yourdomain.ecommerce.app-jetified-runtime-saveable-release-19 C:\Users\Aditya\.gradle\caches\8.10\transforms\4c6242301ed8a6eb7c1baac9f0356cc0\transformed\jetified-runtime-saveable-release\res
+com.yourdomain.ecommerce.app-jetified-material-ripple-release-20 C:\Users\Aditya\.gradle\caches\8.10\transforms\4e425e1a7d6af521b9a752f20070acda\transformed\jetified-material-ripple-release\res
+com.yourdomain.ecommerce.app-jetified-lifecycle-viewmodel-compose-2.7.0-21 C:\Users\Aditya\.gradle\caches\8.10\transforms\4eb9b3f247c9552b0e243191dae662ac\transformed\jetified-lifecycle-viewmodel-compose-2.7.0\res
+com.yourdomain.ecommerce.app-navigation-common-2.7.7-22 C:\Users\Aditya\.gradle\caches\8.10\transforms\4faa5ffdaaeb5c4d87e9d62d9d4cd6af\transformed\navigation-common-2.7.7\res
+com.yourdomain.ecommerce.app-jetified-appcompat-resources-1.6.1-23 C:\Users\Aditya\.gradle\caches\8.10\transforms\5e34f7908c5b02695c5e605654d61207\transformed\jetified-appcompat-resources-1.6.1\res
+com.yourdomain.ecommerce.app-fragment-1.5.1-24 C:\Users\Aditya\.gradle\caches\8.10\transforms\5e8e89233dc10a9a85cd924dc6d4d33c\transformed\fragment-1.5.1\res
+com.yourdomain.ecommerce.app-jetified-ui-tooling-preview-release-25 C:\Users\Aditya\.gradle\caches\8.10\transforms\5fa6513092584081c01c013e510fac48\transformed\jetified-ui-tooling-preview-release\res
+com.yourdomain.ecommerce.app-core-1.12.0-26 C:\Users\Aditya\.gradle\caches\8.10\transforms\60206b0be7df64816b2f4a5b745c27d0\transformed\core-1.12.0\res
+com.yourdomain.ecommerce.app-jetified-firebase-common-20.4.2-27 C:\Users\Aditya\.gradle\caches\8.10\transforms\62f9fbe05ad5021f671e2eb453987d7c\transformed\jetified-firebase-common-20.4.2\res
+com.yourdomain.ecommerce.app-jetified-startup-runtime-1.1.1-28 C:\Users\Aditya\.gradle\caches\8.10\transforms\6f8d43add01d666b16316fd26653f1f7\transformed\jetified-startup-runtime-1.1.1\res
+com.yourdomain.ecommerce.app-jetified-coil-base-2.5.0-29 C:\Users\Aditya\.gradle\caches\8.10\transforms\6fc62ab38d708db546e86f3e6f990764\transformed\jetified-coil-base-2.5.0\res
+com.yourdomain.ecommerce.app-jetified-material3-1.1.2-30 C:\Users\Aditya\.gradle\caches\8.10\transforms\70072b599d81ae2ef3fe9df7d3d4e76b\transformed\jetified-material3-1.1.2\res
+com.yourdomain.ecommerce.app-jetified-foundation-layout-release-31 C:\Users\Aditya\.gradle\caches\8.10\transforms\7a3bc382e3c1fb73706d800fb3865325\transformed\jetified-foundation-layout-release\res
+com.yourdomain.ecommerce.app-jetified-activity-1.8.2-32 C:\Users\Aditya\.gradle\caches\8.10\transforms\7a8a1c35992ecf3a9e70cd28c3ab2df4\transformed\jetified-activity-1.8.2\res
+com.yourdomain.ecommerce.app-jetified-animation-release-33 C:\Users\Aditya\.gradle\caches\8.10\transforms\7ca4efd202ab84de2b274c47d2e22cca\transformed\jetified-animation-release\res
+com.yourdomain.ecommerce.app-jetified-activity-ktx-1.8.2-34 C:\Users\Aditya\.gradle\caches\8.10\transforms\7d058b6e20eeb50fc192bf581cc078e1\transformed\jetified-activity-ktx-1.8.2\res
+com.yourdomain.ecommerce.app-jetified-customview-poolingcontainer-1.0.0-35 C:\Users\Aditya\.gradle\caches\8.10\transforms\7dd692a9c8b33478861b8392103ba890\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.yourdomain.ecommerce.app-core-runtime-2.2.0-36 C:\Users\Aditya\.gradle\caches\8.10\transforms\7ffa584cb5424de5e46ec841a0afce21\transformed\core-runtime-2.2.0\res
+com.yourdomain.ecommerce.app-recyclerview-1.1.0-37 C:\Users\Aditya\.gradle\caches\8.10\transforms\83da6c53ba82e42762ce2917382107f6\transformed\recyclerview-1.1.0\res
+com.yourdomain.ecommerce.app-jetified-ui-util-release-38 C:\Users\Aditya\.gradle\caches\8.10\transforms\8a20a18c6487408b9ae95aed2abea89e\transformed\jetified-ui-util-release\res
+com.yourdomain.ecommerce.app-jetified-lifecycle-runtime-ktx-2.7.0-39 C:\Users\Aditya\.gradle\caches\8.10\transforms\8cdddb6bc648a00d4ef7d8267e4f43ed\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.yourdomain.ecommerce.app-jetified-runtime-release-40 C:\Users\Aditya\.gradle\caches\8.10\transforms\8faaba6f8053bea97aaddcee5322ab5d\transformed\jetified-runtime-release\res
+com.yourdomain.ecommerce.app-jetified-animation-core-release-41 C:\Users\Aditya\.gradle\caches\8.10\transforms\9184f701586c2faea1b8f912a2004035\transformed\jetified-animation-core-release\res
+com.yourdomain.ecommerce.app-jetified-viewpager2-1.0.0-42 C:\Users\Aditya\.gradle\caches\8.10\transforms\95bbd164f0fc092f4a31ecb4e3e23568\transformed\jetified-viewpager2-1.0.0\res
+com.yourdomain.ecommerce.app-constraintlayout-2.0.1-43 C:\Users\Aditya\.gradle\caches\8.10\transforms\9bd22be571b1f1c7894fb91eafed2909\transformed\constraintlayout-2.0.1\res
+com.yourdomain.ecommerce.app-jetified-ads-adservices-1.0.0-beta05-44 C:\Users\Aditya\.gradle\caches\8.10\transforms\9beaf2b2cf30c2d43fac9eb3f7410923\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.yourdomain.ecommerce.app-transition-1.2.0-45 C:\Users\Aditya\.gradle\caches\8.10\transforms\a2abda5362fda218d433e7ec45b219b0\transformed\transition-1.2.0\res
+com.yourdomain.ecommerce.app-jetified-ui-release-46 C:\Users\Aditya\.gradle\caches\8.10\transforms\a37bb3300fd6602f16fc102daa8b2d09\transformed\jetified-ui-release\res
+com.yourdomain.ecommerce.app-jetified-hilt-navigation-compose-1.1.0-47 C:\Users\Aditya\.gradle\caches\8.10\transforms\a60201676d6bcccb5be6d5a8f4768351\transformed\jetified-hilt-navigation-compose-1.1.0\res
+com.yourdomain.ecommerce.app-jetified-material-icons-core-release-48 C:\Users\Aditya\.gradle\caches\8.10\transforms\a68206cc45f126da27306457305341ea\transformed\jetified-material-icons-core-release\res
+com.yourdomain.ecommerce.app-jetified-lifecycle-runtime-compose-2.7.0-49 C:\Users\Aditya\.gradle\caches\8.10\transforms\ad0654d0685c42c211c615044bc9d1a6\transformed\jetified-lifecycle-runtime-compose-2.7.0\res
+com.yourdomain.ecommerce.app-lifecycle-viewmodel-2.7.0-50 C:\Users\Aditya\.gradle\caches\8.10\transforms\b02dc6baa62aa0542ea1b84f526f6fd2\transformed\lifecycle-viewmodel-2.7.0\res
+com.yourdomain.ecommerce.app-jetified-lifecycle-viewmodel-ktx-2.7.0-51 C:\Users\Aditya\.gradle\caches\8.10\transforms\b667803b12fb19b1c110807c2cc359ed\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.yourdomain.ecommerce.app-jetified-ui-geometry-release-52 C:\Users\Aditya\.gradle\caches\8.10\transforms\bc0e81a3f837e812dfd68711a3cd0ff5\transformed\jetified-ui-geometry-release\res
+com.yourdomain.ecommerce.app-lifecycle-livedata-core-2.7.0-53 C:\Users\Aditya\.gradle\caches\8.10\transforms\bc54232efe60715f7e86815c6973e3b7\transformed\lifecycle-livedata-core-2.7.0\res
+com.yourdomain.ecommerce.app-jetified-profileinstaller-1.3.1-54 C:\Users\Aditya\.gradle\caches\8.10\transforms\bdde31b0d14adff9e3e1b46672d117f6\transformed\jetified-profileinstaller-1.3.1\res
+com.yourdomain.ecommerce.app-jetified-ui-unit-release-55 C:\Users\Aditya\.gradle\caches\8.10\transforms\bf68126f5d5925e99d1a357a76f366b7\transformed\jetified-ui-unit-release\res
+com.yourdomain.ecommerce.app-jetified-annotation-experimental-1.3.1-56 C:\Users\Aditya\.gradle\caches\8.10\transforms\c27ca8daa839efe8d6999e96fd96ff09\transformed\jetified-annotation-experimental-1.3.1\res
+com.yourdomain.ecommerce.app-jetified-play-services-basement-18.1.0-57 C:\Users\Aditya\.gradle\caches\8.10\transforms\c36eb0b2078a8b48d779e92f85bf0334\transformed\jetified-play-services-basement-18.1.0\res
+com.yourdomain.ecommerce.app-coordinatorlayout-1.1.0-58 C:\Users\Aditya\.gradle\caches\8.10\transforms\c4213fb24637d6a5402f9dab953611c3\transformed\coordinatorlayout-1.1.0\res
+com.yourdomain.ecommerce.app-jetified-datastore-preferences-1.0.0-59 C:\Users\Aditya\.gradle\caches\8.10\transforms\ca6d1b9009bf2dfb715dd14496fa2efe\transformed\jetified-datastore-preferences-1.0.0\res
+com.yourdomain.ecommerce.app-jetified-emoji2-1.4.0-60 C:\Users\Aditya\.gradle\caches\8.10\transforms\ce9fd36fb6b9ac6ef2f67a33f948b8ac\transformed\jetified-emoji2-1.4.0\res
+com.yourdomain.ecommerce.app-navigation-common-ktx-2.7.7-61 C:\Users\Aditya\.gradle\caches\8.10\transforms\cf03f6d918c2d0a1c23809092c32539f\transformed\navigation-common-ktx-2.7.7\res
+com.yourdomain.ecommerce.app-jetified-ui-graphics-release-62 C:\Users\Aditya\.gradle\caches\8.10\transforms\d2b7eab036f082a0994fae5771034f90\transformed\jetified-ui-graphics-release\res
+com.yourdomain.ecommerce.app-jetified-lifecycle-livedata-core-ktx-2.7.0-63 C:\Users\Aditya\.gradle\caches\8.10\transforms\d413c02eadceb6905d02b1ee7f0617e5\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.yourdomain.ecommerce.app-jetified-hilt-navigation-1.1.0-64 C:\Users\Aditya\.gradle\caches\8.10\transforms\d73c17d88012016318d7853645b661d0\transformed\jetified-hilt-navigation-1.1.0\res
+com.yourdomain.ecommerce.app-lifecycle-livedata-2.7.0-65 C:\Users\Aditya\.gradle\caches\8.10\transforms\ea2208d1a1a03881d8256529f2dcf927\transformed\lifecycle-livedata-2.7.0\res
+com.yourdomain.ecommerce.app-navigation-runtime-ktx-2.7.7-66 C:\Users\Aditya\.gradle\caches\8.10\transforms\ed4de1ac32d420df1b450b4e379027ad\transformed\navigation-runtime-ktx-2.7.7\res
+com.yourdomain.ecommerce.app-appcompat-1.6.1-67 C:\Users\Aditya\.gradle\caches\8.10\transforms\eec8184acd5cc147c23b57c40153e8d1\transformed\appcompat-1.6.1\res
+com.yourdomain.ecommerce.app-jetified-datastore-1.0.0-68 C:\Users\Aditya\.gradle\caches\8.10\transforms\f41d3647b2bb2f709b2d4f8e29a22cab\transformed\jetified-datastore-1.0.0\res
+com.yourdomain.ecommerce.app-jetified-core-splashscreen-1.0.1-69 C:\Users\Aditya\.gradle\caches\8.10\transforms\f77e58eebad0830650db56916142b5ab\transformed\jetified-core-splashscreen-1.0.1\res
+com.yourdomain.ecommerce.app-res-70 C:\Users\Aditya\Desktop\E-commerce Management System\app\build\generated\crashlytics\res\release
+com.yourdomain.ecommerce.app-res-71 C:\Users\Aditya\Desktop\E-commerce Management System\app\build\generated\res\processReleaseGoogleServices
+com.yourdomain.ecommerce.app-resValues-72 C:\Users\Aditya\Desktop\E-commerce Management System\app\build\generated\res\resValues\release
+com.yourdomain.ecommerce.app-packageReleaseResources-73 C:\Users\Aditya\Desktop\E-commerce Management System\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.yourdomain.ecommerce.app-packageReleaseResources-74 C:\Users\Aditya\Desktop\E-commerce Management System\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.yourdomain.ecommerce.app-merged_res-75 C:\Users\Aditya\Desktop\E-commerce Management System\app\build\intermediates\merged_res\release
+com.yourdomain.ecommerce.app-main-76 C:\Users\Aditya\Desktop\E-commerce Management System\app\src\main\res
+com.yourdomain.ecommerce.app-release-77 C:\Users\Aditya\Desktop\E-commerce Management System\app\src\release\res

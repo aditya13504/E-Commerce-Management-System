@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme for dark mode -->
+    <style name="Theme.ECommerce" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here if needed -->
+    </style>
+</resources> 

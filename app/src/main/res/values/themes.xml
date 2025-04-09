@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.ECommerce" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your base theme here if needed -->
+    </style>
+    
+    <!-- Splash screen theme -->
+    <style name="Theme.ECommerce.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splashBackground</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.ECommerce</item>
+    </style>
+</resources> 

@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color splashBackground
+drawable ic_launcher
+drawable ic_launcher_round
+drawable splash_logo
+string add_product
+string app_name
+string customer_details
+string customers
+string delete_product
+string edit_product
+string home
+string order_details
+string orders
+string product_details
+string products
+string search
+string settings
+style Theme.ECommerce
+style Theme.ECommerce.Splash
