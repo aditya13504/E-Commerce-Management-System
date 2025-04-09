@@ -1,6 +1,6 @@
 # E-commerce Management System
 
-A modern Android e-commerce application built with the latest technologies and best practices for 2025.
+A modern Android e-commerce application built with the latest technologies and best practices for 2024.
 
 ## Features
 
@@ -46,7 +46,7 @@ The application integrates with Supabase for:
 
 ### Prerequisites
 
-- Android Studio 2025 or newer
+- Android Studio 2024 or newer
 - JDK 17 or newer
 - Supabase account
 
@@ -54,7 +54,7 @@ The application integrates with Supabase for:
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/ecommerce-management-system.git
+git clone "https://github.com/aditya13504/E-Commerce-Management-System.git"
 ```
 
 2. Open in Android Studio
@@ -104,8 +104,8 @@ SUPABASE_KEY=your-supabase-key
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Always welcome for contributions.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. 
+MIT License
